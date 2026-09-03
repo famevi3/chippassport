@@ -78,7 +78,7 @@ ChipPassport es una **plataforma SaaS basada en blockchain** que permite a los f
 
 | **Nombre** | **Rol** | **Perfil** |
 | :--- | :--- | :--- |
-| **Fabiola Medina** | Fundadora & CEO | Estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara**. Egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión profunda de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector. Su formación técnica, sumada a su experiencia en negocios y regulación, le permite diseñar soluciones innovadoras y escalables para la industria. |
+| **Fabiola Medina Villaseñor** | Fundadora & CEO | Estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara**. Egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión profunda de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector. Su formación técnica, sumada a su experiencia en negocios y regulación, le permite diseñar soluciones innovadoras y escalables para la industria. |
 
 **Plan de expansión del equipo:**
 
