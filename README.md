@@ -12,7 +12,7 @@ Esta iniciativa se presenta en el marco de **Circuito 14**, un programa de la Se
 
 ### Alineación con las necesidades de Jalisco
 - **Oportunidad de Mercado:** Jalisco importa más de **580 millones de dólares** anuales en servicios de diseño que podrían ser provistos localmente. ChipPassport busca capturar una parte de este valor, posicionando a Jalisco como un centro de desarrollo de soluciones de software especializado para semiconductores.
-- **Talento Local:** La fundadora es estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara** y egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión profunda de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector.
+- **Talento Local:** La fundadora es estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara** y egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector.
 - **Propiedad Intelectual:** ChipPassport tiene el potencial de generar propiedad intelectual propia, un objetivo central de Circuito 14.
 
 ---
