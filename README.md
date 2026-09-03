@@ -1,6 +1,3 @@
-# chippassport
-Plataforma de trazabilidad blockchain para materiales críticos en la industria de semiconductores
-
 # ChipPassport: Trazabilidad Blockchain para Materiales Críticos en Semiconductores
 
 > *Solución SaaS para la generación de Certificados de Recuperación Digitales, garantizando trazabilidad, cumplimiento regulatorio y acceso al "green premium" en la industria de semiconductores.*
