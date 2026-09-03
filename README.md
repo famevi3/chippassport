@@ -10,9 +10,16 @@
 
 Esta iniciativa se presenta en el marco de **Circuito 14**, un programa de la Secretaría de Desarrollo Económico de Jalisco (SEDECO) que busca crear y profesionalizar proveedores especializados para la industria de semiconductores y alta tecnología.
 
+### Oportunidad Global: CHIPS Act y Nearshoring
+
+La **CHIPS and Science Act (2022)** de Estados Unidos destinó **$52,000 millones de dólares** para fortalecer la industria de semiconductores en Norteamérica, con requisitos estrictos de sostenibilidad y trazabilidad en las cadenas de suministro. Esto ha acelerado el **nearshoring** hacia México y, en particular, hacia Jalisco, que ya cuenta con una de las mayores concentraciones de empresas de semiconductores del país.
+
+ChipPassport está posicionado para aprovechar esta oportunidad, ofreciendo a las fabs locales la trazabilidad necesaria para cumplir con los requisitos de la CHIPS Act y acceder a fondos federales y contratos con empresas estadounidenses.
+
 ### Alineación con las necesidades de Jalisco
+
 - **Oportunidad de Mercado:** Jalisco importa más de **580 millones de dólares** anuales en servicios de diseño que podrían ser provistos localmente. ChipPassport busca capturar una parte de este valor, posicionando a Jalisco como un centro de desarrollo de soluciones de software especializado para semiconductores.
-- **Talento Local:** La fundadora es estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara** y egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector.
+- **Talento Local:** La fundadora es estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara** y egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión profunda de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector.
 - **Propiedad Intelectual:** ChipPassport tiene el potencial de generar propiedad intelectual propia, un objetivo central de Circuito 14.
 
 ---
@@ -20,11 +27,13 @@ Esta iniciativa se presenta en el marco de **Circuito 14**, un programa de la Se
 ## Problema y Solución
 
 ### El Problema
-- **Riesgo Regulatorio:** La industria de semiconductores enfrenta regulaciones inminentes como el **EU Digital Product Passport (2027)** y la **CHIPS Act**, que exigen trazabilidad y sostenibilidad. Las empresas que no cumplan quedarán excluidas de mercados clave.
+
+- **Riesgo Regulatorio:** La industria de semiconductores enfrenta regulaciones inminentes como el **EU Digital Product Passport (2027)** y la **CHIPS Act (2022)** en EE.UU., que exigen trazabilidad y sostenibilidad. Las empresas que no cumplan quedarán excluidas de mercados clave y no podrán acceder a fondos federales.
 - **Pérdida de Datos y Valor:** El scrap de semiconductores contiene datos valiosos sobre fallas de manufactura, pero actualmente se destruye sin ser analizado.
 - **Pérdida de Oportunidad Comercial:** La falta de trazabilidad impide que los materiales recuperados accedan al "green premium", un sobreprecio por materiales certificados como sostenibles.
 
 ### La Solución: ChipPassport
+
 ChipPassport es una **plataforma SaaS basada en blockchain** que permite a los fabricantes de semiconductores y EMS (Electronics Manufacturing Services):
 
 1. **Registrar** cada lote de material recuperado en un libro de contabilidad inmutable.
@@ -72,6 +81,7 @@ ChipPassport es una **plataforma SaaS basada en blockchain** que permite a los f
 | **Fabiola Medina** | Fundadora & CEO | Estudiante de maestría en **Robótica e Inteligencia Artificial** en la **Universidad de Guadalajara**. Egresada del curso **E3 (English, Ethics & Employability) en Semiconductores**, impartido por la **Embajada de Estados Unidos** en colaboración con la UdeG. Esta formación le ha proporcionado una comprensión profunda de la industria de semiconductores, sus estándares éticos y las oportunidades de empleabilidad en el sector. Su formación técnica, sumada a su experiencia en negocios y regulación, le permite diseñar soluciones innovadoras y escalables para la industria. |
 
 **Plan de expansión del equipo:**
+
 - **Corto plazo (0-6 meses):** Incorporar un **desarrollador blockchain** (freelance o socio técnico) para el desarrollo del prototipo.
 - **Mediano plazo (6-12 meses):** Incorporar un **desarrollador full-stack** y un **especialista en IoT/RFID**.
 - **Largo plazo (12+ meses):** Equipo completo de 4-6 personas (ingeniería, ventas, operaciones).
@@ -89,12 +99,14 @@ ChipPassport es una **plataforma SaaS basada en blockchain** que permite a los f
 
 ---
 
-## 🔗 Enlaces
+## Enlaces
+
+- **Repositorio:** https://github.com/tuusuario/chippassport *(Reemplaza "tuusuario" con tu usuario de GitHub)*
 - **Contacto:** ialandfamevi@gmail.com
 
 ---
 
-## 📄 Licencia y Propiedad Intelectual
+##  Licencia y Propiedad Intelectual
 
 © 2026 ChipPassport. Todos los derechos reservados.
 
